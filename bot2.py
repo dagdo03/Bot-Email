@@ -1,7 +1,6 @@
 import smtplib
 import ssl
 import imghdr
-
 from email.message import EmailMessage
 
 
