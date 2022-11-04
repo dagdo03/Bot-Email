@@ -7,7 +7,7 @@ from email.message import EmailMessage
 
 
 email_sender = #masukkan  email pengirim
-email_password = #masukkan pw email pengirim
+email_password = #masukkan pw apppassword email pengirim
 list_email = [#masukkan list email yang dituju  
     ]
 
